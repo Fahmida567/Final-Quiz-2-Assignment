@@ -16,21 +16,21 @@ namespace BookApplication.Models
         
         public string textbox;
        public DataTable dtTable = new DataTable();
-        Database objDBaccess = new Database();
+        Database obj4DBaccess = new Database();
         public void Show()
         {
             string query = "Select * from Books";
-            objDBaccess.readDatathroughAdapter(query,dtTable);
+            obj4DBaccess.readDatathroughAdapter(query,dtTable);
         }
         public void Close()
         {
-            objDBaccess.closeConn();
+            obj4DBaccess.closeConn();
         }
 
         public void performOperation()
         {
             string query = "Select * from Books";
-             a= objDBaccess.executeDataAdapter(dtTable,query);
+             a= obj4DBaccess.executeDataAdapter(dtTable,query);
             
         }
 
@@ -38,17 +38,12 @@ namespace BookApplication.Models
         {
 
             string query = "Select * from Books where Name='"+textbox+"'";
-            objDBaccess.readDatathroughAdapter(query, dtTable);
+            obj4DBaccess.readDatathroughAdapter(query, dtTable);
         }
         public void earchClose()
         {
-            objDBaccess.closeConn();
+            obj4DBaccess.closeConn();
         }
-       public void information()
-        {
-            
-        }
-
 
 
     }

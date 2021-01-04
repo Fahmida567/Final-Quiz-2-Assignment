@@ -48,15 +48,15 @@ namespace BookApplication.Views
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            book_details ob = new book_details();
+            book_details obj2 = new book_details();
             DataGridViewRow row=this.dataGridView1.Rows[e.RowIndex];
-            ob.name = row.Cells["Name"].Value.ToString();
-            ob.id=row.Cells["ID"].Value.ToString();
-            ob.author= row.Cells["Author"].Value.ToString();
-            ob.edition= row.Cells["Edition"].Value.ToString();          
-            ob.Show();
+            obj2.name = row.Cells["Name"].Value.ToString();
+            obj2.id=row.Cells["ID"].Value.ToString();
+            obj2.author= row.Cells["Author"].Value.ToString();
+            obj2.edition= row.Cells["Edition"].Value.ToString();          
+            obj2.Show();
         }
 
-       
+      
     }
 }

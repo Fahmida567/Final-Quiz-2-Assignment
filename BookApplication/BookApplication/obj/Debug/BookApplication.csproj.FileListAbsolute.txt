@@ -20,3 +20,14 @@ D:\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.GenerateReso
 D:\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.CoreCompileInputs.cache
 D:\BookApplication\BookApplication\obj\Debug\BookApplication.exe
 D:\BookApplication\BookApplication\obj\Debug\BookApplication.pdb
+G:\New folder (5)\BookApplication\BookApplication\bin\Debug\BookApplication.exe.config
+G:\New folder (5)\BookApplication\BookApplication\bin\Debug\BookApplication.exe
+G:\New folder (5)\BookApplication\BookApplication\bin\Debug\BookApplication.pdb
+G:\New folder (5)\BookApplication\BookApplication\obj\Debug\BookApplication.csprojAssemblyReference.cache
+G:\New folder (5)\BookApplication\BookApplication\obj\Debug\BookApplication.Properties.Resources.resources
+G:\New folder (5)\BookApplication\BookApplication\obj\Debug\BookApplication.Views.allbooks.resources
+G:\New folder (5)\BookApplication\BookApplication\obj\Debug\BookApplication.Views.book_details.resources
+G:\New folder (5)\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.GenerateResource.cache
+G:\New folder (5)\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.CoreCompileInputs.cache
+G:\New folder (5)\BookApplication\BookApplication\obj\Debug\BookApplication.exe
+G:\New folder (5)\BookApplication\BookApplication\obj\Debug\BookApplication.pdb
